@@ -1,0 +1,1 @@
+/home/yongwoo/test/backup1217/src/kern/linux/flag_tables.hh

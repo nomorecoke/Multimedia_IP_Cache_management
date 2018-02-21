@@ -1,0 +1,1 @@
+/home/yongwoo/test/backup1217/src/base/loader/aout_object.hh

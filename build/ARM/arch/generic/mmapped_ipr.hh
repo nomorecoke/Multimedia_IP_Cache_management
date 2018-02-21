@@ -1,0 +1,1 @@
+/home/yongwoo/GEM5_IP_Sogang_embedded/src/arch/generic/mmapped_ipr.hh

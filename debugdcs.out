@@ -1,0 +1,743 @@
+gem5 Simulator System.  http://gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 compiled Nov 27 2017 19:29:55
+gem5 started Nov 27 2017 19:30:23
+gem5 executing on Ecl-Server4, pid 20903
+command line: /home/yongwoo/test/gem5/build/ARM/gem5.opt -d bzip2 /home/yongwoo/test/gem5/configs/example/arm/lg_ip_se.py --mem-type=LPDDR3_1600_1x32 --mem-channels=1 --cpu=minor --num-cores=1 --l2_policy=DCS bzip2
+
+2GB
+--> bzip2
+info: 1. command and arguments: ['/home/yongwoo/CPU2006/401.bzip2/run/run_base_ref_arm.0000/bzip2_base.arm', '/home/yongwoo/CPU2006/401.bzip2/run/run_base_ref_arm.0000/input.program', '280']
+Global frequency set at 1000000000000 ticks per second
+0: system.remote_gdb.listener: listening for remote gdb #0 on port 7015
+info: Entering event queue @ 0.  Starting simulation...
+time elapsed0M Cycle
+0 : 0
+1 : 0
+2 : 0
+3 : 0
+4 : 0
+<<<< segment size changed ( 4 )
+Average Segment size4
+warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
+      Returning '/home/yongwoo/CPU2006/401.bzip2/run/run_base_ref_arm.0000/bzip2_base.arm'
+info: Increasing stack size by one page.
+time elapsed10M Cycle
+0 : 0
+1 : 0
+2 : 2055
+3 : 0
+4 : 1371
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed20M Cycle
+0 : 0
+1 : 0
+2 : 2055
+3 : 0
+4 : 1369
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed30M Cycle
+0 : 0
+1 : 0
+2 : 2052
+3 : 0
+4 : 1369
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed40M Cycle
+0 : 0
+1 : 0
+2 : 2036
+3 : 0
+4 : 1356
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed50M Cycle
+0 : 34
+1 : 36
+2 : 1915
+3 : 34
+4 : 1291
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed60M Cycle
+0 : 502
+1 : 495
+2 : 503
+3 : 502
+4 : 500
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed70M Cycle
+0 : 458
+1 : 462
+2 : 456
+3 : 458
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed80M Cycle
+0 : 448
+1 : 451
+2 : 451
+3 : 450
+4 : 451
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed90M Cycle
+0 : 448
+1 : 448
+2 : 448
+3 : 448
+4 : 448
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed100M Cycle
+0 : 448
+1 : 448
+2 : 448
+3 : 448
+4 : 448
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed110M Cycle
+0 : 448
+1 : 448
+2 : 448
+3 : 448
+4 : 448
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed120M Cycle
+0 : 633
+1 : 626
+2 : 634
+3 : 631
+4 : 630
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed130M Cycle
+0 : 738
+1 : 737
+2 : 737
+3 : 740
+4 : 737
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed140M Cycle
+0 : 737
+1 : 739
+2 : 737
+3 : 736
+4 : 738
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed150M Cycle
+0 : 739
+1 : 739
+2 : 737
+3 : 737
+4 : 739
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed160M Cycle
+0 : 737
+1 : 741
+2 : 736
+3 : 738
+4 : 738
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed170M Cycle
+0 : 659
+1 : 655
+2 : 662
+3 : 661
+4 : 660
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed180M Cycle
+0 : 461
+1 : 464
+2 : 458
+3 : 459
+4 : 460
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed190M Cycle
+0 : 461
+1 : 462
+2 : 464
+3 : 464
+4 : 463
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed200M Cycle
+0 : 465
+1 : 460
+2 : 464
+3 : 462
+4 : 460
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed210M Cycle
+0 : 459
+1 : 464
+2 : 462
+3 : 463
+4 : 466
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed220M Cycle
+0 : 466
+1 : 460
+2 : 463
+3 : 463
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed230M Cycle
+0 : 457
+1 : 465
+2 : 461
+3 : 462
+4 : 467
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed240M Cycle
+0 : 468
+1 : 461
+2 : 464
+3 : 461
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed250M Cycle
+0 : 458
+1 : 464
+2 : 459
+3 : 461
+4 : 466
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed260M Cycle
+0 : 466
+1 : 461
+2 : 465
+3 : 466
+4 : 461
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed270M Cycle
+0 : 460
+1 : 466
+2 : 459
+3 : 459
+4 : 461
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed280M Cycle
+0 : 463
+1 : 459
+2 : 464
+3 : 465
+4 : 463
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed290M Cycle
+0 : 464
+1 : 462
+2 : 463
+3 : 460
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed300M Cycle
+0 : 458
+1 : 465
+2 : 463
+3 : 464
+4 : 467
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed310M Cycle
+0 : 467
+1 : 457
+2 : 463
+3 : 463
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed320M Cycle
+0 : 459
+1 : 467
+2 : 462
+3 : 461
+4 : 468
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed330M Cycle
+0 : 466
+1 : 460
+2 : 464
+3 : 463
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed340M Cycle
+0 : 458
+1 : 464
+2 : 459
+3 : 459
+4 : 464
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed350M Cycle
+0 : 467
+1 : 460
+2 : 464
+3 : 466
+4 : 460
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed360M Cycle
+0 : 457
+1 : 462
+2 : 457
+3 : 458
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed370M Cycle
+0 : 458
+1 : 459
+2 : 462
+3 : 461
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed380M Cycle
+0 : 464
+1 : 459
+2 : 461
+3 : 459
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed390M Cycle
+0 : 456
+1 : 462
+2 : 457
+3 : 458
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed400M Cycle
+0 : 461
+1 : 459
+2 : 460
+3 : 464
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed410M Cycle
+0 : 462
+1 : 457
+2 : 462
+3 : 459
+4 : 457
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed420M Cycle
+0 : 456
+1 : 463
+2 : 460
+3 : 459
+4 : 465
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed430M Cycle
+0 : 466
+1 : 459
+2 : 461
+3 : 462
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed440M Cycle
+0 : 457
+1 : 462
+2 : 457
+3 : 458
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed450M Cycle
+0 : 458
+1 : 459
+2 : 462
+3 : 461
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed460M Cycle
+0 : 464
+1 : 459
+2 : 461
+3 : 459
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed470M Cycle
+0 : 456
+1 : 462
+2 : 457
+3 : 458
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed480M Cycle
+0 : 461
+1 : 459
+2 : 460
+3 : 464
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed490M Cycle
+0 : 462
+1 : 457
+2 : 462
+3 : 459
+4 : 457
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+simulate() limit reached  @  500000000000
+info: Entering event queue @ 500000000000.  Starting simulation...
+time elapsed500M Cycle
+0 : 456
+1 : 463
+2 : 460
+3 : 459
+4 : 465
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed510M Cycle
+0 : 466
+1 : 459
+2 : 461
+3 : 462
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed520M Cycle
+0 : 457
+1 : 462
+2 : 457
+3 : 457
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed530M Cycle
+0 : 458
+1 : 459
+2 : 462
+3 : 462
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed540M Cycle
+0 : 464
+1 : 459
+2 : 461
+3 : 459
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed550M Cycle
+0 : 456
+1 : 462
+2 : 457
+3 : 458
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed560M Cycle
+0 : 461
+1 : 459
+2 : 460
+3 : 464
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed570M Cycle
+0 : 462
+1 : 457
+2 : 462
+3 : 459
+4 : 457
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed580M Cycle
+0 : 456
+1 : 463
+2 : 460
+3 : 458
+4 : 465
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed590M Cycle
+0 : 466
+1 : 459
+2 : 461
+3 : 463
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed600M Cycle
+0 : 457
+1 : 462
+2 : 457
+3 : 457
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed610M Cycle
+0 : 458
+1 : 459
+2 : 462
+3 : 462
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed620M Cycle
+0 : 464
+1 : 459
+2 : 461
+3 : 459
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed630M Cycle
+0 : 456
+1 : 462
+2 : 457
+3 : 458
+4 : 462
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed640M Cycle
+0 : 461
+1 : 459
+2 : 460
+3 : 463
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed650M Cycle
+0 : 462
+1 : 457
+2 : 462
+3 : 460
+4 : 457
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed660M Cycle
+0 : 456
+1 : 463
+2 : 460
+3 : 458
+4 : 465
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed670M Cycle
+0 : 466
+1 : 459
+2 : 461
+3 : 463
+4 : 458
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed680M Cycle
+0 : 457
+1 : 462
+2 : 457
+3 : 457
+4 : 459
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed690M Cycle
+0 : 454
+1 : 458
+2 : 458
+3 : 459
+4 : 460
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed700M Cycle
+0 : 459
+1 : 453
+2 : 459
+3 : 456
+4 : 453
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed710M Cycle
+0 : 458
+1 : 455
+2 : 456
+3 : 458
+4 : 456
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed720M Cycle
+0 : 454
+1 : 462
+2 : 452
+3 : 452
+4 : 457
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed730M Cycle
+0 : 455
+1 : 454
+2 : 459
+3 : 458
+4 : 460
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed740M Cycle
+0 : 459
+1 : 454
+2 : 457
+3 : 458
+4 : 453
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed750M Cycle
+0 : 457
+1 : 455
+2 : 456
+3 : 456
+4 : 454
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed760M Cycle
+0 : 453
+1 : 461
+2 : 453
+3 : 453
+4 : 457
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed770M Cycle
+0 : 455
+1 : 454
+2 : 459
+3 : 457
+4 : 460
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed780M Cycle
+0 : 231
+1 : 228
+2 : 226
+3 : 227
+4 : 225
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed790M Cycle
+0 : 17
+1 : 14
+2 : 16
+3 : 12
+4 : 15
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4
+time elapsed800M Cycle
+0 : 56
+1 : 64
+2 : 79
+3 : 64
+4 : 66
+<<<< segment size not changed 
+<<<< segment size changed ( 4 )
+Average Segment size4

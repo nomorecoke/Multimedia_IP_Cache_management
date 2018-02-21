@@ -1,0 +1,1 @@
+/home/yongwoo/GEM5_IP_Sogang_embedded/src/dev/net/ns_gige.cc

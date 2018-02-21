@@ -1,0 +1,1 @@
+/home/yongwoo/GEM5_IP_Sogang_embedded/ext/libfdt/fdt_empty_tree.c

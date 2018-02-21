@@ -1,0 +1,1 @@
+/home/yongwoo/GEM5_IP_Sogang_embedded/src/cpu/trace/trace_cpu.cc
