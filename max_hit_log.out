@@ -1,0 +1,100 @@
+gem5 Simulator System.  http://gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 compiled Dec  4 2017 21:05:36
+gem5 started Mar  5 2018 20:40:05
+gem5 executing on Ecl-Server4, pid 13958
+command line: /home/yongwoo/test/gem5/build/ARM/gem5.opt -d max_hit_DDR4/bwaves /home/yongwoo/test/gem5/configs/example/arm/lg_ip_se.py --mem-type=DDR4_2400_4x16 --mem-channels=2 --cpu=minor --num-cores=1 --l2_policy=LRU bwaves
+
+2GB
+--> bwaves
+info: 1. command and arguments: ['/home/yongwoo/CPU2006/410.bwaves/run/run_base_ref_arm.0000/bwaves_base.arm']
+Global frequency set at 1000000000000 ticks per second
+warn: DRAM device capacity (4096 Mbytes) does not match the address range assigned (1024 Mbytes)
+warn: DRAM device capacity (4096 Mbytes) does not match the address range assigned (1024 Mbytes)
+0: system.remote_gdb.listener: listening for remote gdb #0 on port 7011
+info: Entering event queue @ 0.  Starting simulation...
+warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
+      Returning '/home/yongwoo/CPU2006/416.gamess/run/run_base_ref_arm.0000/gamess_base.arm'
+info: Increasing stack size by one page.
+warn: ignoring syscall rt_sigaction(...)
+      (further warnings will be susimulate()simulate() limit reached  @  500000000000
+info: Entering event queue @ 500000000000.  Starting simuinfo: Increasing stack size by one page.
+stack size by one page.
+info: Increasing warn: fcntl64(7, 1) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntsimulate() limit reached  @  500000000000
+info: Entering event queue @ 500000000000.  Starting simulation...
+h to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3ff81000-0x3ffc0000, adding 4096
+warn: returning 0x3ff81000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3ff2f000-0x3ff81000, adding 77824
+warn: returning 0x3ff2f000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3fed8000-0x3ff2f000, adding 20480
+warn: returning 0x3fed8000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3fe80000-0x3fed8000, adding 4096
+warn: returning 0x3fe80000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3fe17000-0x3fe80000, adding 69632
+warn: returning 0x3fe17000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3fda6000-0x3fe17000, adding 32768
+warn: returning 0x3fda6000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3fd33000-0x3fda6000, adding 8192
+warn: returning 0x3fd33000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3fcbf000-0x3fd33000, adding 4096
+warn: returning 0x3fcbf000 as start
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(3, 2) passed through to host
+warn: mremapping to new vaddr 0x3faf0000-0x3fbd7000, adding 471040
+warn: returning 0x3faf0000 as start
+simulate() limit reached  @  500000000000
+info: Entering event queue @ 500000000000.  Starting simulation...
+warn: fcntl64(3, 2) passed through to host
+info: Increasing stack size by one page.
+warn: fcntl64(3, 2) passed through to host
+warn: fcntl64(4, 2) passed through to host

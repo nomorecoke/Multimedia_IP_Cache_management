@@ -84,7 +84,7 @@ class L2(L2Cache):
     response_latency = 5
     mshrs = 32
     tgts_per_mshr = 20
-    size = '4MB'
+    size = '32MB'
     assoc = 16
     write_buffers = 256
     clusivity='mostly_excl'

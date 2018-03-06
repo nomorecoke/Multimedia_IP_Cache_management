@@ -526,7 +526,7 @@ class DDR3_2133_8x8(DDR3_1600_8x8):
 # 16 devices/rank * 2 ranks/channel * 1GB/device = 32GB/channel
 class DDR4_2400_16x4(DRAMCtrl):
     # size of device
-    device_size = '1GB'
+    device_size = '2GB'
 
     # 16x4 configuration, 16 devices each with a 4-bit interface
     device_bus_width = 4
